@@ -1,20 +1,20 @@
 [
    {
-   'attendeeID': 'some dude'
+   'attendeeID': 'some dude',
 
-   'qrCode_badge': 00001
+   'qrCode_badge': 00001,
 
-   'qrCode_wristBand': 0120002
+   'qrCode_wristBand': 0120002,
 
    'boothID': 1
 },
 
 {
-   'attendeeID': 'some other_dude'
+   'attendeeID': 'some other_dude',
 
-   'qrCode_badge': 00002
+   'qrCode_badge': 00002,
 
-   'qrCode_wristBand': 0120004
+   'qrCode_wristBand': 0120004,
 
    'boothID': 2
 }
