@@ -1,4 +1,5 @@
-{
+[
+   {
    'attendeeID': 'some dude'
 
    'qrCode_badge': 00001
@@ -16,5 +17,7 @@
    'qrCode_wristBand': 0120004
 
    'boothID': 2
-},
+}
+   
+]
 
