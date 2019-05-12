@@ -1,6 +1,7 @@
 {
   "api_data": [
-    { "attendeeID": "test one", "qrCode_badge": "0001", "qrCode_wristband":"0010001", "booth id":"1" }
+    { "attendeeID": "test one", "qrCode_badge": "0001", "qrCode_wristband":"0010001", "booth id":"1" },
+    { "attendeeID": "test two", "qrCode_badge": "0002", "qrCode_wristband":"0010020", "booth id":"2" }
  
   ]
 }
