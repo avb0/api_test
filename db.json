@@ -4,5 +4,26 @@
   "qrCode_badge": 9124,
   "qrCode_wristband": 0010004,
   "boothID":1
+  },
+  
+  {
+  "attendeeID":"colin mc bumface",
+  "qrCode_badge": 01234,
+  "qrCode_wristband": 0010008,
+  "boothID":2
+  },
+  
+  {
+  "attendeeID":"jackie big jugs",
+  "qrCode_badge": 01354,
+  "qrCode_wristband": 0010010,
+  "boothID":1
+  },
+  
+   {
+  "attendeeID":"",
+  "qrCode_badge": 01379,
+  "qrCode_wristband": 0010020,
+  "boothID":3
   }
-}]
+]
