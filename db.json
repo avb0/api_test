@@ -1,8 +1,8 @@
 {
 "api_data":[
    {"attendeeID": "Hugh Jass",
-   "qrCode_badge": 000123,
-   "qrCode_wristband": 001234,
+   "qrCode_badge": "000123",
+   "qrCode_wristband": "001234",
    "boothID:2"}
 ],
 }
