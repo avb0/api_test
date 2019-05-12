@@ -5,11 +5,5 @@
   "qrCode_wristband": 0010004,
   "boothID":1
   },
-  
-  {
-  "attendeeID":"colin mc bumface",
-  "qrCode_badge": 01234,
-  "qrCode_wristband": 0010008,
-  "boothID":2
-  }
+ 
 ]
