@@ -1,17 +1,17 @@
 {
   "api_data": [
-    { "attendeeID": "test 1", "qrCode_badge": "0001", "qrCode_wristband":"0010001", "booth id":"1" },
-    { "attendeeID": "test 2", "qrCode_badge": "0002", "qrCode_wristband":"0110020", "booth id":"3" },
-    { "attendeeID": "test 3", "qrCode_badge": "0003", "qrCode_wristband":"0310001", "booth id":"1" },
-    { "attendeeID": "test 4", "qrCode_badge": "0004", "qrCode_wristband":"1210020", "booth id":"2" },
-    { "attendeeID": "test 5", "qrCode_badge": "0005", "qrCode_wristband":"1310001", "booth id":"1" },
-    { "attendeeID": "test 6", "qrCode_badge": "0006", "qrCode_wristband":"2010020", "booth id":"3" },
-    { "attendeeID": "test 7", "qrCode_badge": "0007", "qrCode_wristband":"1110001", "booth id":"1" },
-    { "attendeeID": "test 8", "qrCode_badge": "0008", "qrCode_wristband":"0810020", "booth id":"2" },
-    { "attendeeID": "test 9", "qrCode_badge": "0009", "qrCode_wristband":"2410001", "booth id":"3" },
-    { "attendeeID": "test 10", "qrCode_badge": "0010", "qrCode_wristband":"0510020", "booth id":"2" },
-    { "attendeeID": "test 11", "qrCode_badge": "0011", "qrCode_wristband":"0010020", "booth id":"1" },
-    { "attendeeID": "test 12", "qrCode_badge": "0012", "qrCode_wristband":"0010200", "booth id":"3" }
+    { "attendeeID": "test 1", "qrCode_badge": "0001", "qrCode_wristband":"0010001", "boothID":"1" },
+    { "attendeeID": "test 2", "qrCode_badge": "0002", "qrCode_wristband":"0110020", "boothID":"3" },
+    { "attendeeID": "test 3", "qrCode_badge": "0003", "qrCode_wristband":"0310001", "boothID":"1" },
+    { "attendeeID": "test 4", "qrCode_badge": "0004", "qrCode_wristband":"1210020", "boothID":"2" },
+    { "attendeeID": "test 5", "qrCode_badge": "0005", "qrCode_wristband":"1310001", "boothID":"1" },
+    { "attendeeID": "test 6", "qrCode_badge": "0006", "qrCode_wristband":"2010020", "boothID":"3" },
+    { "attendeeID": "test 7", "qrCode_badge": "0007", "qrCode_wristband":"1110001", "boothID":"1" },
+    { "attendeeID": "test 8", "qrCode_badge": "0008", "qrCode_wristband":"0810020", "boothID":"2" },
+    { "attendeeID": "test 9", "qrCode_badge": "0009", "qrCode_wristband":"2410001", "boothID":"3" },
+    { "attendeeID": "test 10", "qrCode_badge": "0010", "qrCode_wristband":"0510020", "boothID":"2" },
+    { "attendeeID": "test 11", "qrCode_badge": "0011", "qrCode_wristband":"0010020", "boothID":"1" },
+    { "attendeeID": "test 12", "qrCode_badge": "0012", "qrCode_wristband":"0010200", "boothID":"3" }
  
  
   ]
