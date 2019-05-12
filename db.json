@@ -1,8 +1,8 @@
 [
   {
   "attendeeID":"Hugh Jass",
-  "qrCode_badge": 9124,
-  "qrCode_wristband": 0010004,
-  "boothID":1
+  "qrCode_badge": "9124",
+  "qrCode_wristband": "0010004",
+  "boothID":"1"
   }
 ]
