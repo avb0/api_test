@@ -1,22 +1,8 @@
-[
-   {
-   "attendeeID": "some dude",
-
-   "qrCode_badge": "00001",
-
-   "qrCode_wristBand": "0120002",
-
-   "boothID": "1"
-},
-
 {
-   "attendeeID": "some other_dude",
-
-   "qrCode_badge": "00002",
-
-   "qrCode_wristBand": "0120004",
-
-   "boothID": "2"
-}  
+api_data = [
+   {"attendeeID": "Hugh Jass",
+   "qrCode_badge": 000123,
+   "qrCode_wristband": 001234
+   "boothID:2"
 ]
-
+}
