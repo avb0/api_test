@@ -1,7 +1,7 @@
 {
   "api_data": [
     { "attendeeID": "test 1", "qrCode_badge": "0100", "qrCode_wristband":"0010001", "boothID":"1" },
-    { "attendeeID": "test 2", "qrCode_badge": "0101", "qrCode_wristband":"0200020", "boothID":"3" },
+    { "attendeeID": "test 2", "qrCode_badge": "0101", "qrCode_wristband":"0200020", "boothID":"1" },
     { "attendeeID": "test 3", "qrCode_badge": "0102", "qrCode_wristband":"0310001", "boothID":"1" },
     { "attendeeID": "test 4", "qrCode_badge": "0103", "qrCode_wristband":"1210020", "boothID":"2" },
     { "attendeeID": "test 5", "qrCode_badge": "0104", "qrCode_wristband":"1310001", "boothID":"1" },
